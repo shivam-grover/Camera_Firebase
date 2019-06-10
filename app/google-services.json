@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "155867705441",
+    "firebase_url": "https://camerss-86707.firebaseio.com",
+    "project_id": "camerss-86707",
+    "storage_bucket": "camerss-86707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155867705441:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155867705441-k0f3f6q7dfk8t78tc411h1re0k95m7la.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "22c8d9c120ce5311d62dc50d68fdc661354cca28"
+          }
+        },
+        {
+          "client_id": "155867705441-p2qn2jki6sl90u26akcr04ko5dspphrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVcATv47ZVpKAAM1eBzFCihkvWaKKPO_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155867705441-p2qn2jki6sl90u26akcr04ko5dspphrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
